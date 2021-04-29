@@ -10,4 +10,4 @@ some test text
 
 Test second tag
 -------------------
-**Bolt font***
+**Bolt font**
