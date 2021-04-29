@@ -4,10 +4,10 @@ Test Task
 ***
 Second paragraph
 
-h1 Test tag
+Test tag
 ===============
 some test text
 
-h2 Test second tag
+Test second tag
 -------------------
-** Bolt font***
+**Bolt font***
